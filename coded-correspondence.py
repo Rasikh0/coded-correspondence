@@ -1,4 +1,4 @@
- importing string module
+# importing string module
 import string
 
 # storing lower and upper case alphabets in variables
